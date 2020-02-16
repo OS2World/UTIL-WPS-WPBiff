@@ -8,6 +8,7 @@ Program changes the icon and the title of the WPS object
 * 
  
 ## AUTHORS
+* Vitaly S. Gumirov
 * Virtual Objects Software
 
 ## LINKS
